@@ -58,3 +58,6 @@ Welcome to the Unity 3D Multiplayer Avatar Chat App repository! This project dem
 
 - Ensure that you have the necessary Unity version and Photon SDK installed to avoid compatibility issues.
 - Refer to Unity documentation and Photon Chat documentation for detailed setup and troubleshooting.
+
+  ![Alt Text](screenshot%201.png "ReadyPlayerMe Avatar")
+  ![Alt Text](screenshot%202.png "Multiplayer Chat")
